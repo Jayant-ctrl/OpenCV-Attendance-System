@@ -1,3 +1,4 @@
 <h1 align="center">OpenCV Attendance System</h1> 
-![1](https://github.com/user-attachments/assets/1788b2f5-22f0-4abb-8f2e-852757744f8b)
+![Faces](https://github.com/user-attachments/assets/8abb8ee0-5542-4743-95a6-5ae4c718dd51)
+
 
