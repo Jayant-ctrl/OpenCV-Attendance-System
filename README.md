@@ -1,3 +1,8 @@
+<h1 align="center">OpenCV Attedance System</h1>
+![1](https://github.com/user-attachments/assets/d26751af-a6db-4781-b829-a1d804342a7e)
+![2](https://github.com/user-attachments/assets/69d490dd-0630-4d74-adad-8683f37db678)
+![3](https://github.com/user-attachments/assets/a9befb28-8160-4c3b-ae30-cd06324408d6)
+
 1. Requirements: Libraries
    -> Python
    -> OpenCV
