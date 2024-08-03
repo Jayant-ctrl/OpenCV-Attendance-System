@@ -7,3 +7,8 @@
 #
 # 3. Detecting Faces
 ![2](https://github.com/user-attachments/assets/9e01d8b4-23b3-47fb-859d-de00b8261da3)
+#
+# 🎆Features
+##  1. This system uses HOG method to detect faces in the image or live video feed.
+##  2. The face_distance value tells whether the faces are similar or not.
+##  3. Range of face_distance value is from 0 to 1.
