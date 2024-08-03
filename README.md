@@ -11,4 +11,5 @@
 # 🎆Features
 ##  1. This system uses HOG method to detect faces in the image or live video feed.
 ##  2. The face_distance value tells whether the faces are similar or not.
-##  3. Range of face_distance value is from 0 to 1.
+##  3. Range of face_distance value is from 0 to 1. Lower is the distance value , higher are the chances of similarity. 
+ 
